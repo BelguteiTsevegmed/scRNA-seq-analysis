@@ -1,2 +1,2 @@
 # scRNA-seq-analysis
-Developed a machine learning model to predict surface protein levels based on gene expression data from multimodal single-cell RNA sequencing (scRNA-seq).
+Developed a machine learning model to predict surface protein levels based on gene expression data from multimodal single-cell RNA sequencing (scRNA-seq). This project involved exploratory data analysis, feature selection, and model training using ElasticNet and Random Forests. The primary goal was to accurately predict protein abundance, leveraging RNA transcript counts from bone marrow samples. The project also included a comparison of model performance through cross-validation and an evaluation of test set predictions.
